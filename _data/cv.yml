@@ -121,7 +121,6 @@ cv:
       - label: Languages
         details: Chinese native, English CET-6
 
-  sort_entries: none
 
 design:
   theme: classic
@@ -131,11 +130,10 @@ design:
     bottom_margin: 1.6cm
     left_margin: 1.6cm
     right_margin: 1.6cm
-    show_page_numbering: true
-    show_last_updated_date: true
+
 
 locale:
-  language: en
+  language: english
   phone_number_format: international
   page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
   last_updated_date_template: Last updated in TODAY
@@ -173,14 +171,3 @@ locale:
     - November
     - December
 
-rendercv_settings:
-  date: "2026-07-04"
-  bold_keywords:
-    - Yuzhu Tao
-    - First Author
-    - ACM Multimedia
-    - IEEE Transactions on Circuits and Systems for Video Technology
-    - Qwen3-VL-4B
-    - LoRA
-    - 92%
-  sort_entries: none

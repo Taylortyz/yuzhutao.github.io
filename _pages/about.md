@@ -65,6 +65,6 @@ For more details, please visit my [CV](/cv/), publications, and projects.
 
 <div style="text-align:center; margin-top:45px;">
 <i>
-Towards intelligent machines that can see, understand, and create.
+Exploring the beauty of the visual world through intelligent perception.
 </i>
 </div>

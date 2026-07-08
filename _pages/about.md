@@ -16,7 +16,6 @@ latest_posts:
   enabled: false
 ---
 
-
 I am Yuzhu Tao, a master's student in Artificial Intelligence at Beijing Jiaotong University.
 
 My research lies at the intersection of **computer vision and 

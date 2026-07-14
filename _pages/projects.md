@@ -8,6 +8,7 @@ nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
+Currently Under Development. Stay Tuned!
 
 <!-- pages/projects.md -->
 <div class="projects">

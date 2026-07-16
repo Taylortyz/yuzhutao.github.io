@@ -13,6 +13,3 @@ profiles:
   - align: right
     image: scene.jpg
     content: about_einstein.md
-    
-    
- 

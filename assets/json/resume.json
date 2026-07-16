@@ -76,13 +76,13 @@
 
   "publications": [
     {
-      "name": "Fast-Rotating Panoramic HDR Reconstruction from Single-Second Spikes",
+      "title": "Fast-Rotating Panoramic HDR Reconstruction from Single-Second Spikes",
       "publisher": "ACM Multimedia (CCF-A)",
       "releaseDate": "2026",
       "summary": "Proposed a hybrid spike-camera and RGB-camera framework for HDR panoramic color image reconstruction from one-second spike acquisition. Developed a dual-branch reconstruction pipeline and applied Qwen-Image-Edit-2509 with LoRA for HDR panoramic colorization."
     },
     {
-      "name": "Seam-Guided Unsupervised Image Stitching with Parallax-Aware Mask Generation",
+      "title": "Seam-Guided Unsupervised Image Stitching with Parallax-Aware Mask Generation",
       "publisher": "IEEE Transactions on Circuits and Systems for Video Technology (CCF-B)",
       "releaseDate": "2026",
       "summary": "Proposed a seam-guided iterative alignment mechanism and a parallax-aware mask generation strategy for robust image stitching in large-parallax real-world scenes."
